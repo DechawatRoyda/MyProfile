@@ -826,13 +826,18 @@ h3#Ex {
     object-fit: cover;
   }
   .slider-wrapper .image-list .image-item2{
-    width: max-content;
+    width: auto;
     height: 400px;
     object-fit: cover;
   }
 
   .slider-wrapper .image-list .image-item3{
-    width: max-content;
+    width: auto;
+    height: 400px;
+    object-fit: cover;
+  }
+  .slider-wrapper .image-list .image-item4{
+    width: auto;
     height: 400px;
     object-fit: cover;
   }
